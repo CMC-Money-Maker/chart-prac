@@ -1,30 +1,21 @@
-# React + TypeScript + Vite
+# 타 사이트 그래프 모음
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [폴센트](https://fallcent.com/)
 
-Currently, two official plugins are available:
+![폴센트 그래프](.github/images/폴센트_이미지.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## [로우차트](https://www.lowchart.com/)
 
-## Expanding the ESLint configuration
+![로우차트 그래프](.github/images/로우차트_이미지.png)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## [지니알림](https://geniealert.co.kr/)
 
-- Configure the top-level `parserOptions` property like this:
+![지니 알림 그래프](.github/images/지니알림_이미지.png)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## [cpprices](https://www.cpprices.com/)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![cpprices 그래프](.github/images/cpprices_이미지.png)
+
+## [pricescharts](https://www.pricescharts.com/2024/06/apple-2023-24-m3-10-512gb-m3-8-16gb.html)
+
+![pricescharts 그래프](.github/images/pricescharts_이미지.png)
